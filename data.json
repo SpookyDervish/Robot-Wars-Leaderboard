@@ -2,7 +2,7 @@
     "contestants": [
         {
             "name": "Jimmy",
-            "score": 0
+            "score": 100
         },
         {
             "name": "The Beast",
@@ -11,5 +11,9 @@
         {
             "name": "Killdozer",
             "score": 100
+        },
+        {
+            "name": "Sausage Dog",
+            "score": 0
         }
 }
