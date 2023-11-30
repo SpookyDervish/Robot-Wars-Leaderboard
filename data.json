@@ -1,3 +1,15 @@
 {
-    "contestants": []
+    "contestants": [
+        {
+            "name": "Jimmy",
+            "score": 0
+        },
+        {
+            "name": "The Beast",
+            "score": 0
+        },
+        {
+            "name": "Killdozer",
+            "score": 100
+        }
 }
