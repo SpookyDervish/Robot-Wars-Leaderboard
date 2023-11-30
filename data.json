@@ -10,7 +10,7 @@
         },
         {
             "name": "Killdozer",
-            "score": 100
+            "score":200
         },
         {
             "name": "Sausage Dog",
@@ -28,4 +28,5 @@
             "name": "The Brick",
             "score": 100,
         }
+    ]
 }
