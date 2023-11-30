@@ -15,5 +15,17 @@
         {
             "name": "Sausage Dog",
             "score": 0
+        },
+        {
+            "name": "Dark Horse",
+            "score": 100
+        },
+        {
+            "name": "The Sharks",
+            "score": 0
+        },
+        {
+            "name": "The Brick",
+            "score": 0,
         }
 }
